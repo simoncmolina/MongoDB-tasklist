@@ -18,3 +18,7 @@ Las funcionalidades más importantes son.
 -**Diseño** : Diseño amigable para los usuarios. Fácil de entender
 -**Live** : Colaboración en vivo con otros usuarios.
 
+Los usuarios la usarán por su fácil integración con otras aplicaciones y de
+
+escalabilidad importante
+
